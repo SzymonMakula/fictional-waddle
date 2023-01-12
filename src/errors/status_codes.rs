@@ -1,0 +1,6 @@
+pub enum StatusCodes {
+    FULFILL = 1000,
+    SERVER_DOWN = 1001,
+    PROTOCOL_ERROR = 1002,
+    DATA_NOT_SUPPORTED = 1003,
+}
